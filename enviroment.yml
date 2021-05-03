@@ -1,6 +1,5 @@
 dependencies:
   - python=3
   - pip:
-   - jupyter_contrib_nbextensions
-   - couchdb
+    - CouchDB
 
